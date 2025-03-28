@@ -1,0 +1,1 @@
+# Vanilla_JS_Event_Delegation_Periodic_Table
